@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cryptogram</string>
+
+    <string-array name="sentences">
+        <item>Одлучувањата го одредуваат карактерот</item>
+        <item>слабоста на ставот станува слабост на карактерот</item>
+        <item>карактерот е многу полесно да се чува отколку да се обнови</item>
+    </string-array>
+</resources>

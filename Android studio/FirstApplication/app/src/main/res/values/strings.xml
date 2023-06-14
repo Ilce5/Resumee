@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="country">Country</string>
+    <string name="register">Register</string>
+    <string name="gender">Gender:</string>
+    <string name="agree">Agree</string>
+    <string name="license_agreement">License Agreement.</string>
+    <string name="female">Female</string>
+    <string name="privateGender">Private</string>
+    <string name="male">Male</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="profilepicture">profilePicture</string>
+
+    <array name="countries">
+        <item>Macedonia</item>
+        <item>USA</item>
+        <item>Germany</item>
+        <item>Italy</item>
+    </array>
+</resources>
